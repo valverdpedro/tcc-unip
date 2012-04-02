@@ -1,0 +1,179 @@
+<mockup version="1.0" skin="sketch" measuredW="1166" measuredH="504" mockupW="848" mockupH="503">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="318" y="1" w="848" h="503" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>doando.se%0Ahttp%3A//admin.doando.se/associados</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="333" y="83" w="816" h="64" measuredW="816" measuredH="64" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="186" measuredH="50" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>doando.se</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="59" w="816" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="17"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="82" y="35" w="-1" h="-1" measuredW="105" measuredH="24" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <size>16</size>
+            <text>Administra%E7%E3o</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="30" controlTypeID="__group__" x="951" y="85" w="179" h="22" measuredW="179" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="1" w="-1" h="-1" measuredW="153" measuredH="21" zOrder="0" locked="false" isInGroup="30">
+          <controlProperties>
+            <text>Bem%20bindo%2C%20Administrador.</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="153" y="0" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="1" locked="false" isInGroup="30">
+          <controlProperties>
+            <text>sair</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="333" y="162" w="635" h="24" measuredW="635" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="161" y="0" w="-1" h="-1" measuredW="64" measuredH="23" zOrder="0" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>todas</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="110" y="2" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Cidade%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="51" y="1" w="-1" h="-1" measuredW="49" measuredH="23" zOrder="2" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>SP</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="3" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Estado%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::CheckBox" x="451" y="0" w="-1" h="-1" measuredW="96" measuredH="22" zOrder="4" locked="false" isInGroup="31">
+          <controlProperties>
+            <state>selected</state>
+            <text>hemocentro</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="561" y="0" w="-1" h="-1" measuredW="74" measuredH="22" zOrder="5" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>hospitais</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="327" y="0" w="-1" h="-1" measuredW="102" measuredH="23" zOrder="6" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>emerg%EAncia</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="250" y="2" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="7" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Notifica%E7%F5es%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::HRule" x="333" y="201" w="817" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="34" controlTypeID="__group__" x="352" y="242" w="175" h="24" measuredW="175" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="175" h="24" measuredW="175" measuredH="24" zOrder="0" locked="false" isInGroup="34">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="82" measuredH="24" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>S%E3o%20Judas</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Ara%E7atuba%20-%20SP</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="339" y="224" w="84" h="16" measuredW="86" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <italic>true</italic>
+        <size>13</size>
+        <text>Hemocentros</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="352" y="262" w="193" h="24" measuredW="193" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="193" h="24" measuredW="193" measuredH="24" zOrder="0" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="100" measuredH="24" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>S%E3o%20Matheus</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="100" y="1" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Ara%E7atuba%20-%20SP</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="779" y="218" w="65" h="16" measuredW="61" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>2848996</color>
+        <italic>true</italic>
+        <size>13</size>
+        <text>Hospitais</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::VRule" x="759" y="209" w="-1" h="252" measuredW="5" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="__group__" x="792" y="236" w="205" h="24" measuredW="205" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="205" h="24" measuredW="205" measuredH="24" zOrder="0" locked="false" isInGroup="39">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="110" measuredH="24" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <bold>true</bold>
+                <size>16</size>
+                <text>Sta%20Terezinha</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="112" y="1" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Ara%E7atuba%20-%20SP</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="835" y="249" w="201" h="186" measuredW="201" measuredH="186" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Tooltip" x="0" y="0" w="201" h="186" measuredW="190" measuredH="186" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <align>left</align>
+            <text>Hospital%20Sta%20Terezinha%0ARua%3A%20Serafim%2C%20231%20-%20Centro%0AAra%E7atuba%0A16200%20-%20000%0A%20%0ANotifica%E7%F5es%3A%0A%20%20%20emerg%EAncias%3A%202%0A%20%20%20campanhas%3A%203</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="133" y="154" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>detalhes</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
