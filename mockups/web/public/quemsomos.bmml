@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="369" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
-        <text>Doando.se%0Ahttp%3A//doando.se/depoimentos</text>
+        <text>Doando.se%0Ahttp%3A//doando.se/quemsomos</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="1104" y="85" w="-1" h="-1" measuredW="66" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
