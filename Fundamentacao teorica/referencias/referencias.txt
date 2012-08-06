@@ -13,4 +13,3 @@
 [7] Sass. Syntactically Awesome Stylesheets. (2011). Disponível em <http://sass-lang.com/>  Acesso em 27 de Maio 2012.
 
 
-g
